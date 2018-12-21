@@ -4,10 +4,10 @@
 </head>
 
 <body>
-<%
-    //sampleStart
-    response.sendRedirect("http://dl.gsu.by");
-    //sampleEnd
-%>
+    <%
+        //sampleStart
+        response.sendRedirect("http://dl.gsu.by");
+        //sampleEnd
+    %>
 </body>
 </html>

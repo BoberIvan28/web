@@ -44,7 +44,7 @@
                 <br>
                 <a href="getServerName.jsp">Получение имени сервера,принявшего запрос</a>
                 <br>
-                 <a href="getProtocol.jsp">Получение названия и версии протокола</a>
+                <a href="getProtocol.jsp">Получение названия и версии протокола</a>
                 <h3>HTML</h3>
                 <a href="getMethod.jsp">Обработка формы метод Get</a>
                 <br>
