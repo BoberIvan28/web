@@ -18,7 +18,7 @@
             //sampleEnd
         %>
 
-        <jsp:include page="statics/teil.jsp?name=headerResponse.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=headerResponse.jsp"/>
     </div>
 </body>
 </html>

@@ -12,7 +12,7 @@
             <input type = "submit" value = "Select Subject" />
         </form>
         <%//sampleEnd%>
-        <jsp:include page="statics/teil.jsp?name=radiobutton.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=radiobutton.jsp"/>
     </div>
 </body>
 </html>

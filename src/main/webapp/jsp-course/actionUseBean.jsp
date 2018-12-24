@@ -11,14 +11,12 @@
         <p>Got message....</p>
         <jsp:getProperty name = "test" property = "message" />
         <%//sampleEnd%>
-        <div>actionUseBean.jsp :</div>
-        <jsp:include page="statics/teil.jsp?name=actionUseBean.jsp"/>
-        <div>TestBean.java</div>
+        <div><h2>TestBean.java</h2></div>
         <pre style="width: auto; font-size: 15px;"><code id="jspCode1"></code></pre>
         <p>
-        <a href="<%=request.getContextPath()%>/sources/TestBean.java" class="button teal" target="_blank">
-            Показать весь код страницы в отдельной вкладке</a>
-
+         <a href="<%=request.getContextPath()%>/sources/TestBean.java" class="button teal" target="_blank">
+                Показать весь код страницы в отдельной вкладке</a>
+        <jsp:include page="statics/tail.jsp?name=actionUseBean.jsp"/>
     </div>
     <script>
         $( document ).ready(function() {

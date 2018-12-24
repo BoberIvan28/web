@@ -12,7 +12,7 @@
         <input type = "submit" value = "Submit" />
     </form>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=forCookies.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=forCookies.jsp"/>
 </div>
 </body>
 </html>

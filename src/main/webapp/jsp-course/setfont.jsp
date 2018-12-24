@@ -12,7 +12,7 @@
             </p></div>
         </div>
         <%//sampleEnd%>
-        <jsp:include page="statics/teil.jsp?name=setfont.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=setfont.jsp"/>
     </div>
 </body>
 </html>

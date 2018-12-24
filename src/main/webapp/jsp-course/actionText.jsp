@@ -7,7 +7,7 @@
         <jsp:text>This is jsp:text</jsp:text>
         <%//sampleEnd%>
 
-        <jsp:include page="statics/teil.jsp?name=actionText.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=actionText.jsp"/>
     </div>
 </body>
 </html>

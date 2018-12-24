@@ -25,7 +25,7 @@
         </div>
     </div>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=cookiesForNames.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=cookiesForNames.jsp"/>
 </div>
 </body>
 </html>

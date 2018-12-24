@@ -8,7 +8,7 @@
         Session: <font color = green> <%=(String) session.getAttribute("teext") %> </font>
     </div>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=getsession.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=getsession.jsp"/>
 </div>
 </body>
 </html>

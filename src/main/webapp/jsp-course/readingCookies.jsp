@@ -24,7 +24,7 @@
         }
         //sampleEnd
     %>
-    <jsp:include page="statics/teil.jsp?name=readingCookies.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=readingCookies.jsp"/>
 </div>
 </body>
 </html>

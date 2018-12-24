@@ -10,7 +10,7 @@
             </p></div>
         </div>
         <%//sampleEnd%>
-        <jsp:include page="statics/teil.jsp?name=forRadiobutton.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=forRadiobutton.jsp"/>
     </div>
 </body>
 </html>

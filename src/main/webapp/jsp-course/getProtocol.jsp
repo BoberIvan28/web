@@ -9,7 +9,7 @@
             //sampleEnd
         %>
 
-        <jsp:include page="statics/teil.jsp?name=getProtocol.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=getProtocol.jsp"/>
     </div>
 </body>
 </html>

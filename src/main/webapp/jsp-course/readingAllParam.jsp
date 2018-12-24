@@ -12,7 +12,7 @@
             <input type = "submit" value = "Select Subject" />
         </form>
         <%//sampleEnd%>
-        <jsp:include page="statics/teil.jsp?name=readingAllParam.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=readingAllParam.jsp"/>
     </div>
 </body>
 </html>

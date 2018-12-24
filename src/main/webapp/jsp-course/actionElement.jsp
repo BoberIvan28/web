@@ -9,7 +9,7 @@
         <jsp:body>Link</jsp:body>
     </jsp:element>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=actionElement.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=actionElement.jsp"/>
 </div>
 </body>
 </html>

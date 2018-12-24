@@ -4,7 +4,7 @@
 <body>
 <div id="content">
     <iframe src="sendRedirect.jsp"></iframe>
-    <jsp:include page="statics/teil.jsp?name=sendRedirect.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=sendRedirect.jsp"/>
 </div>
 </body>
 </html>

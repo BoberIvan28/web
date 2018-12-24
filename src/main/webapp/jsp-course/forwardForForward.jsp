@@ -4,7 +4,7 @@
 <body>
     <div id="content">
         <div>actionForward.jsp</div>
-        <jsp:include page="statics/teil.jsp?name=actionForward.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=actionForward.jsp"/>
     </div>
 </body>
 </html>

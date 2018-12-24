@@ -14,7 +14,7 @@
             </form>
             <%//sampleEnd%>
         </div>
-        <jsp:include page="statics/teil.jsp?name=checkbox.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=checkbox.jsp"/>
     </div>
 </body>
 </html>

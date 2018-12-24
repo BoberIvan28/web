@@ -17,7 +17,7 @@
     </div>
     <%//sampleEnd%>
 
-    <jsp:include page="statics/teil.jsp?name=forCheckbox.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=forCheckbox.jsp"/>
 </div>
 </body>
 </html>

@@ -14,7 +14,7 @@
             </form>
             <%//sampleEnd%>
         </div>
-        <jsp:include page="statics/teil.jsp?name=postMethod.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=postMethod.jsp"/>
     </div>
 </body>
 </html>

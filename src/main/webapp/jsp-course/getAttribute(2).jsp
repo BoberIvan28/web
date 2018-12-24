@@ -9,7 +9,7 @@
         <%//sampleEnd%>
 
 
-        <jsp:include page="statics/teil.jsp?name=getAttribute(2).jsp"/>
+        <jsp:include page="statics/tail.jsp?name=getAttribute(2).jsp"/>
         <p><h2>Исходный код getAttribute.jsp:</h2></p>
         <pre style="width: auto; font-size: 15px;"><code id="jspCode1"></code></pre>
     </div>

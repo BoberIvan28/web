@@ -4,7 +4,7 @@
 <body>
     <div id="content">
         <iframe src="statusCode.jsp"></iframe>
-        <jsp:include page="statics/teil.jsp?name=forStatusCode.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=forStatusCode.jsp"/>
     </div>
 </body>
 </html>

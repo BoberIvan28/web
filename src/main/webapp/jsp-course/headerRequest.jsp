@@ -24,7 +24,7 @@
             %>
         </table>
         </div>
-        <jsp:include page="statics/teil.jsp?name=headerRequest.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=headerRequest.jsp"/>
     </div>
 </body>
 </html>

@@ -11,7 +11,7 @@
         <input type = "submit" value = "Enter" />
     </form>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=session.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=session.jsp"/>
 </div>
 </body>
 </html>

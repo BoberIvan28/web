@@ -11,7 +11,7 @@
         <%= request.getParameter("last_name")%>
     </p>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=forGetMethod.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=forGetMethod.jsp"/>
 </div>
 </body>
 </html>

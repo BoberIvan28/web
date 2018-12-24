@@ -21,7 +21,7 @@
         %>
     </table>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=forReadingAllParam.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=forReadingAllParam.jsp"/>
 </div>
 </body>
 </html>

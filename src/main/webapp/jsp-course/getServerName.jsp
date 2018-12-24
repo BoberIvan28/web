@@ -9,7 +9,7 @@
             //sampleEnd
         %>
 
-        <jsp:include page="statics/teil.jsp?name=getServerName.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=getServerName.jsp"/>
     </div>
 </body>
 </html>

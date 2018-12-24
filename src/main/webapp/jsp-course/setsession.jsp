@@ -10,7 +10,7 @@
     %>
     <a href="getsession.jsp">Посмотреть сессию</a>
     <%//sampleEnd%>
-    <jsp:include page="statics/teil.jsp?name=setsession.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=setsession.jsp"/>
 </div>
 </body>
 </html>

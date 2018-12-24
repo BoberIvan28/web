@@ -8,7 +8,7 @@
             request.getServerPort()
             //sampleEnd
         %>
-        <jsp:include page="statics/teil.jsp?name=getPort.jsp"/>
+        <jsp:include page="statics/tail.jsp?name=getPort.jsp"/>
     </div>
 </body>
 </html>

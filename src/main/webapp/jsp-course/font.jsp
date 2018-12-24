@@ -18,7 +18,7 @@
         </form>
         <%//sampleEnd%>
     </div>
-    <jsp:include page="statics/teil.jsp?name=font.jsp"/>
+    <jsp:include page="statics/tail.jsp?name=font.jsp"/>
 </div>
 </body>
 </html>
