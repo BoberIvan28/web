@@ -1,3 +1,2 @@
-
-    <p>Today's date: <%= (new java.util.Date())%></p>
+<p>Today's date: <%= (new java.util.Date())%></p>
 

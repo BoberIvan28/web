@@ -9,62 +9,62 @@
         <tr>
             <td>
                 <h3>Полезные примеры</h3>
-                <a href="helloFromJsp.jsp">Вывод строки "Hello from JSP"</a>
+                <a href="ind.jsp?pageId=35586051&name=helloFromJsp.jsp">Вывод строки "Hello from JSP"</a>
                 <br>
-                <a href="getDate.jsp">Получение текущей даты</a>
+                <a href="ind.jsp?pageId=35586070&name=getDate.jsp">Получение текущей даты</a>
                 <br>
                 <h3>JSP action</h3>
-                <a href="actionInclude.jsp">Jsp включение(jsp:include)</a>
+                <a href="ind.jsp?pageId=35586074&name=actionInclude.jsp">Jsp включение(jsp:include)</a>
                 <br>
                 <a href="actionUseBean.jsp">Jsp useBean(jsp:useBean, jsp:setProperty, jsp:getProperty)</a>
                 <br>
                 <a href="actionForward.jsp">Jsp forward(jsp:forward)</a>
                 <br>
-                <a href="actionText.jsp">Jsp text(jsp:text)</a>
+                <a href="ind.jsp?name=actionText.jsp">Jsp text(jsp:text)</a>
                 <br>
-                <a href="actionElement.jsp">Jsp element(jsp:element)</a>
+                <a href="ind.jsp?name=actionElement.jsp">Jsp element(jsp:element)</a>
                 <h3>HTTP</h3>
-                <a href="headerRequest.jsp">HTTP Header Request</a>
+                <a href="ind.jsp?name=headerRequest.jsp">HTTP Header Request</a>
                 <br>
-                <a href="headerResponse.jsp">HTTP Header Response</a>
+                <a href="ind.jsp?name=headerResponse.jsp">HTTP Header Response</a>
                 <br>
-                <a href="forStatusCode.jsp">HTTP Status Codes</a>
+                <a href="ind.jsp?name=forStatusCode.jsp">HTTP Status Codes</a>
                 <br>
-                <a href="getOneParam.jsp">Получение конкретного параметра из URL</a>
+                <a href="ind.jsp?pageId=35586061&name=getOneParam.jsp">Получение конкретного параметра из URL</a>
                 <br>
-                <a href="getAllParam.jsp">Получение всех параметров из URL</a>
+                <a href="ind.jsp?pageId=35586068&name=getAllParam.jsp">Получение всех параметров из URL</a>
                 <br>
-                <a href="getIp.jsp">Получение IP пользователя</a>
+                <a href="ind.jsp?pageId=35586072&name=getIp.jsp">Получение IP пользователя</a>
                 <br>
-                <a href="forSendRedirect.jsp">Redirect</a>
+                <a href="ind.jsp?name=forSendRedirect.jsp">Redirect</a>
                 <br>
-                <a href="getScheme.jsp">Получение протокола</a>
+                <a href="ind.jsp?name=getScheme.jsp">Получение протокола</a>
                 <br>
-                <a href="getPort.jsp">Получение порта сервера</a>
+                <a href="ind.jsp?pageId=35586072&name=getPort.jsp">Получение порта сервера</a>
                 <br>
-                <a href="getServerName.jsp">Получение имени сервера,принявшего запрос</a>
+                <a href="ind.jsp?pageId=35586072&name=getServerName.jsp">Получение имени сервера,принявшего запрос</a>
                 <br>
-                <a href="getProtocol.jsp">Получение названия и версии протокола</a>
+                <a href="ind.jsp?name=getProtocol.jsp">Получение названия и версии протокола</a>
                 <h3>HTML</h3>
-                <a href="getMethod.jsp">Обработка формы метод Get</a>
+                <a href="ind.jsp?pageId=35586072&name=getMethod.jsp">Обработка формы метод Get</a>
                 <br>
-                <a href="postMethod.jsp">Обработка формы метод Post</a>
+                <a href="ind.jsp?pageId=35586072&name=postMethod.jsp">Обработка формы метод Post</a>
                 <br>
-                <a href="checkbox.jsp">Передача флажков</a>
+                <a href="ind.jsp?pageId=35586074&name=checkbox.jsp">Передача флажков</a>
                 <br>
-                <a href="readingAllParam.jsp">Чтение всех параметров формы </a>
+                <a href="ind.jsp?pageId=35586074&name=readingAllParam.jsp">Чтение всех параметров формы </a>
                 <br>
-                <a href="radiobutton.jsp">Передача кнопки </a>
+                <a href="ind.jsp?pageId=35586074&name=radiobutton.jsp">Передача кнопки </a>
                 <br>
                 <a href="getAttribute.jsp">Установка и просмотр атрибутов </a>
                 <br>
-                <a href="font.jsp">Установка значения атрибута "size" для тега "font"</a>
+                <a href="ind.jsp?name=font.jsp">Установка значения атрибута "size" для тега "font"</a>
                 <h3>Cookies</h3>
-                <a href="forCookies.jsp">Установка cookies</a>
+                <a href="ind.jsp?pageId=35586074&name=forCookies.jsp">Установка cookies</a>
                 <br>
-                <a href="readingCookies.jsp">Чтение cookies</a>
+                <a href="ind.jsp?name=readingCookies.jsp">Чтение cookies</a>
                 <h3>Session</h3>
-                <a href="session.jsp">Чтение session</a>
+                <a href="ind.jsp?name=session.jsp">Чтение session</a>
             </td>
             <td>
                 <h3>Полезные ссылки</h3>

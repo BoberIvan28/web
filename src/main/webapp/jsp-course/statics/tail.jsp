@@ -6,7 +6,6 @@
         <a href="<%=request.getContextPath()%>/sources/jsp-course/<%=request.getParameter("name")%>" class="button teal" target="_blank">Показать весь код страницы в отдельной вкладке</a>
     </p>
     <% if(request.getParameter("pageId")!=null){ %>
-        <p><h2>Теория :</h2></p>
         <iframe height="300px" src="http://confluence.newit.gsu.by/pages/viewpage.action?pageId=<%=request.getParameter("pageId")%>"></iframe>
     <% } %>
     <p>
