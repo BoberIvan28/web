@@ -80,7 +80,7 @@
                 <br>
                 <a href="https://www.tutorialspoint.com/jsp/index.htm">JSP Tutorial</a>
                 <br>
-                <a href="https://github.com/OsadchyRoman/web">Проект с примерами на github.com</a>
+                <a href="https://github.com/BoberIvan28/web/tree/master/src/main/webapp/jsp-course">Проект с примерами на github.com</a>
                 <h3>Среда разработки</h3>
                 <a href="http://confluence.newit.gsu.by//x/HwAaAg">Среда разработки для пользователей</a>
             </td>
