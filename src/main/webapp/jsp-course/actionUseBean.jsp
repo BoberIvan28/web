@@ -11,10 +11,11 @@
         <p>Got message....</p>
         <jsp:getProperty name = "test" property = "message" />
         <%//sampleEnd%>
+
         <div><h2>TestBean.java</h2></div>
         <pre style="width: auto; font-size: 15px;"><code id="jspCode1"></code></pre>
         <p>
-         <a href="<%=request.getContextPath()%>/sources/TestBean.java" class="button teal" target="_blank">
+         <a href="<%=request.getContextPath()%>/sources/by/gsu/classes/jspCourse/TestBean.java" class="button teal" target="_blank">
                 Показать весь код страницы в отдельной вкладке</a>
         <jsp:include page="statics/tail.jsp?name=actionUseBean.jsp"/>
     </div>
