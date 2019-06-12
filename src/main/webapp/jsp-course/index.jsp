@@ -60,7 +60,7 @@
                 <br>
                 <a href="ind.jsp?name=font.jsp">Установка значения атрибута "size" для тега "font"</a>
                 <h3>Cookies</h3>
-                <a href="ind.jsp?pageId=35586074&name=forCookies.jsp">Установка cookies</a>
+                <a href="ind.jsp?name=forCookies.jsp">Установка cookies</a>
                 <br>
                 <a href="ind.jsp?name=readingCookies.jsp">Чтение cookies</a>
                 <h3>Session</h3>

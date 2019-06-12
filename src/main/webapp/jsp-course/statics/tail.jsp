@@ -8,10 +8,6 @@
     <% if(request.getParameter("pageId")!=null){ %>
         <iframe height="300px" src="http://confluence.newit.gsu.by/pages/viewpage.action?pageId=<%=request.getParameter("pageId")%>"></iframe>
     <% } %>
-    <p>
-        <a href="http://confluence.newit.gsu.by/pages/viewpage.action?pageId=35586145"  class="button teal" target="_blank">head.jsp</a>
-        <a href="http://confluence.newit.gsu.by/pages/viewpage.action?pageId=35586154" class="button teal" target="_blank">tail.jsp</a>
-    </p>
 </div>
 <script>
     $( document ).ready(function() {
